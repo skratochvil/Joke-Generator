@@ -1,0 +1,9 @@
+package snippet;
+
+public class Snippet {
+	public static void main(String[] args) {
+		response.getWriter().append("<form method=\"post\" action=\"JokeGenerator\">");
+		//		response.getWriter().append("<input type=\"submit\" value=\"Get a new joke!\" /></form>");
+	}
+}
+
